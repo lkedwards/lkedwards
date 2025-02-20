@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am a recent MIT graduate with a BS and MEng in Computer Science and Molecular Biology. I'm currently  at the Broad Institute in the Collins lab working on an ADMET prediction model for antimicrobial peptides. 
 
 <!--
 **lkedwards/lkedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
